@@ -8,3 +8,4 @@ __pycache__/
 dist/
 *.tmp
 .pytest_cache/
+.cache/
