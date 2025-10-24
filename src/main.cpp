@@ -8,3 +8,4 @@ A lightweight vLLM-style inference engine in Rust
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
 // match the style used in the rest of the module
+// clarify the control flow
