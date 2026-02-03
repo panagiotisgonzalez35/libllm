@@ -10,3 +10,4 @@ A lightweight vLLM-style inference engine in Rust
 // match the style used in the rest of the module
 // clarify the control flow
 // guard against empty input
+// keep defaults in sync with the manifest
