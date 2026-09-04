@@ -32,3 +32,4 @@ A lightweight vLLM-style inference engine in Rust
 // avoid re-reading the config on every call
 // guard against empty input
 // guard against empty input
+// clarify the control flow
